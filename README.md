@@ -9,7 +9,7 @@
 ## 🚀 About Me
 Backend & Full-Stack Engineer focused on building resilient, scalable systems and clean APIs. I take complex problems, simplify them, and ship reliable solutions that users and businesses trust. Strong in backend architecture, microservices, and developer-friendly tooling.
 
-**Core strengths:** API design, performance tuning, schema migrations, CI/CD, and shipping with quality.
+**Core strengths:** UI design, performance tuning, schema migrations, CI/CD, and shipping with quality.
 
 ---
 
@@ -20,20 +20,6 @@ Backend & Full-Stack Engineer focused on building resilient, scalable systems an
 **Databases:** PostgreSQL · MongoDB · Redis  
 **Infra/DevOps:** Docker · Kubernetes · GitHub Actions · Terraform  
 **Eventing:** Kafka · RabbitMQ
-
----
-
-## ⚡ Featured Projects
-### 🔹 `loan-service-api` — Spring Boot microservices
-Microservice architecture with JWT auth, migrations, and integration tests. Production-ready patterns: health checks, metrics, and retry policies.
-
-### 🔹 `nextjs-shop-demo` — Next.js e-commerce demo
-Modern SSR storefront with auth, stripe-like checkout, and admin dashboard.
-
-### 🔹 `portfolio` — Personal site (React)
-Fast, responsive portfolio with project showcases and CI pipeline.
-
-> Want README templates, CI workflows, or a deployment script for any of these? I can generate them in minutes.
 
 ---
 
