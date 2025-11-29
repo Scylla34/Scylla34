@@ -8,62 +8,67 @@
 
 ---
 
-## 🚀 About Me
-Backend & Full-Stack Engineer focused on building resilient, scalable systems and clean APIs.  
-I turn complex problems into simple, reliable solutions that users and businesses trust.
+## 🚀 About Me  
+Backend & Full-Stack Engineer passionate about building scalable systems, clean architectures, and real-world solutions.  
+I specialize in **Angular, Next.js, Java/Spring Boot, and Database design**, with strong experience delivering projects that solve real user problems.
 
-**Core strengths:**  
-Architecture design · Performance tuning · CI/CD pipelines · Schema migrations · Microservices · Observability
+**I build:**  
+- Fast, modular front-ends  
+- Scalable backend APIs  
+- Secure database-driven applications  
+- Clean DevOps workflows  
 
 ---
 
 ## 🔧 Tech Snapshot
 
-**Languages:**  
-Java · JavaScript · TypeScript  
+**Frontend:**  
+Angular · Next.js · React · TypeScript  
 
 **Backend:**  
-Spring Boot · Node.js · Express · WebFlux  
-
-**Frontend:**  
-React · Next.js  
+Java · Spring Boot · Node.js · Express  
 
 **Databases:**  
-PostgreSQL · MongoDB · Redis  
+PostgreSQL · MySQL · MongoDB · Redis  
 
-**Infra / DevOps:**  
-Docker · Kubernetes · GitHub Actions · Terraform  
+**DevOps / Cloud:**  
+Docker · Kubernetes · GitHub Actions  
 
-**Event-Driven:**  
-Kafka · RabbitMQ  
+**Other:**  
+Microservices · REST APIs · WebSockets · Authentication · Event-driven systems
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 **loan-service-api — Spring Boot Microservices**
-Production-grade microservices with JWT authentication, database migrations, health checks, and monitoring.
+### 🔹 **Mini Chat App — Real-time messaging**
+WebSocket-based chat app with user auth, typing indicators, and message persistence.  
+**Tech:** Angular + Node.js + WebSockets + MongoDB
 
-### 🔹 **nextjs-shop-demo — Next.js E-commerce**
-Modern SSR storefront with authentication, admin dashboard, and API integration.
+### 🔹 **Homework Helper — Student Support Platform**
+A small full-stack app helping students ask/answer questions with voting, comments, and moderation.
 
-### 🔹 **portfolio — Personal Website**
-Responsive React portfolio with animations, project sections, and CI/CD deployment.
+### 🔹 **Bancassurance Automation (ABSA)**
+Worked on insurance process integration using **Java, JavaScript, JQuery**, and backend workflows to streamline policy processing.
+
+### 🔹 **Next.js Shop**
+Modern SSR e-commerce demo with checkout, product management, and admin dashboard.
 
 ---
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Scylla34&show_icons=true&count_private=true&theme=tokyonight" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scylla34&layout=compact&theme=tokyonight" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Scylla34&show_icons=true&count_private=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scylla34&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
-📩 **Email:** *your-email-here*  
-🔗 **LinkedIn:** https://www.linkedin.com/in/amalemba-anangwe-a961b721b
+
+- 📧 **Email:** teddyanangwe@gmail.com  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/amalemba-anangwe-a961b721b  
 
 ---
 
