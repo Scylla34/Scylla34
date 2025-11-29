@@ -1,8 +1,40 @@
-- 👋 Hi, I’m @Scylla34
-- 👀 I’m interested in Software Development and Cybersecurity
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on maven projects, angular and react frameworks
-- 📫 How to reach me teddyanangwe@gmail.com/teddy-anangwe.vercel.app/+254746711570
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I just might be a black Bill Gates in the making..
+# Hi, I'm Teddy Anangwe 👋
 
+### Backend & Full-Stack Developer | Java | Spring Boot | JavaScript | React | PostgreSQL | Next JS | Angular
+
+💡 I build scalable backend systems, clean APIs, and modern web applications.  
+🌍 Passionate about fintech, distributed systems, and problem-solving.  
+🚀 Always learning and improving.
+
+---
+
+## 🔧 Tech Stack
+**Languages:** Java, JavaScript, TypeScript  
+**Backend:** Spring Boot, Node.js, Express  
+**Frontend:** React, Next.js, Angular 
+**Database:** PostgreSQL, MySQL, MongoDB  
+**DevOps:** Docker, Kubernetes, GitHub Actions  
+**Other:** REST APIs, Microservices, Message Queues
+
+---
+
+## 🚀 Featured Projects
+### 🔹 **SmartShop (Next.js + PostgreSQL)**
+E-commerce demo with authentication, admin dashboards, and responsive UI.
+
+### 🔹 **Loan API (Spring Boot + JWT)**
+Microservices architecture with authentication, API gateway, and service discovery.
+
+### 🔹 **Portfolio Website (React)**
+Clean, responsive personal portfolio showcasing skills and projects.
+
+---
+
+## 📊 GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scylla34&show_icons=true)
+
+---
+
+## 📫 Contact Me
+📩 Email: teddyanangwe@email.com  
+🔗 LinkedIn: www.linkedin.com/in/amalemba-anangwe-a961b721b
