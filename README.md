@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-Backend & Full-Stack Engineer focused on **building scalable systems, clean architectures,  
+Full-Stack Engineer focused on **building scalable systems, clean architectures,  
 and real-world solutions**.
 
 I specialize in  
@@ -65,23 +65,6 @@ Java + JS/JQuery solutions for ABSA Bancassurance workflows.
 
 🔹 **homework helper**  
 A small utility system built to help automate simple tasks.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Scylla34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scylla34&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Scylla34&theme=tokyonight&hide_border=true" height="180" />
-
-</div>
 
 ---
 
