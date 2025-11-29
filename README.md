@@ -47,7 +47,7 @@ Fast, responsive portfolio with project showcases and CI pipeline.
 
 ## 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/amalemba-anangwe-a961b721b  
-- Email: **teddyanangwe@gmail.com** (replace with your email)
+- Email: **teddyanangwe@gmail.com** 
 
 ---
 
